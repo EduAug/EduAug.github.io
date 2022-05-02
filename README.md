@@ -1,5 +1,20 @@
+<center>
+
 # EduAug.github.io
-Repositório p/ documentos e arquivos web
+
+Repositório contendo documentos e arquivos web feitos em aula
 
 
-# Repositório p/ visualização de sites
+# Sites trabalhados até o momento
+
+
+## [Tabela](<https://eduaug.github.io/Tabela>)
+
+## [Modelo de Portfolio](<https://eduaug.github.io/projeto_portfolio_v2>)
+
+## [Modelo de Site](<https://eduaug.github.io/projeto_site_v2>)
+
+## [Teste de Bootstrap 1](<https://eduaug.github.io/projeto_bs1>)
+
+## [Teste de Bootstrap 2](<https://eduaug.github.io/projeto_bs2>)
+ </center>
