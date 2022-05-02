@@ -3,10 +3,15 @@
 # EduAug.github.io
 
 Repositório contendo documentos e arquivos web feitos em aula
+</center>
 
+<center>
 
 # Sites trabalhados até o momento
 
+</center>
+
+<center>
 
 ## [Tabela](<https://eduaug.github.io/Tabela>)
 
